@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    background-color: #0d1117;
+}
+
+h2 {
+    color: #ecf2f8;
+}
+
+p {
+    color: #ecf2f8;
+}
+
+.border {
+    margin: auto;
+    width: 380px;
+    overflow: auto;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: #161b22;
+    margin-top: 50px;
+
+}
+
+.image {
+    border-radius: 100px;
+    width: 100px;
+    border: 1px solid #ecf2f8;
+}
+
+.header {
+    background-color: #161b22;
+    padding: 1rem;
+    text-align: center;
+}
+.text-name{
+    margin-top: 5px;
+    font-size:x-large;
+}
+.location{
+    color: yellow;
+    position: relative;
+    top: -20px;
+}
+.field{
+    position: relative;
+    top: -30px;
+}
+.btn-custom{
+width: 300px;
+border-radius: 7px;
+margin-bottom: 7px;
+}
